@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: coral;
+    align-items: center;
+}
+#welcome {
+    text-align: left;
+    font-size: large;
+    align-items: left;
+}
+
+h2 {
+    color: rgb(97, 95, 74);
+}
+img {
+    height: 200px;
+    width: 200px;
+}
